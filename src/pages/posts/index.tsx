@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
+import { FiChevronLeft, FiChevronRight, FiChevronsLeft, FiChevronsRight } from "react-icons/fi";
 import thumbImg from "../../../public/images/thumb.png";
 import styles from "./styles.module.scss";
 
@@ -23,6 +24,26 @@ export default function Posts() {
               </p>
             </a>
           </Link>
+
+          <div className={styles.buttonNavigate}>
+            <div>
+              <button>
+                <FiChevronsLeft size={25} color="#fff" />
+              </button>
+              <button>
+                <FiChevronLeft size={25} color="#fff" />
+              </button>
+            </div>
+
+            <div>
+              <button>
+                <FiChevronRight size={25} color="#fff" />
+              </button>
+              <button>
+                <FiChevronsRight size={25} color="#fff" />
+              </button>
+            </div>
+          </div>
         </div>
       </main>
     </>
