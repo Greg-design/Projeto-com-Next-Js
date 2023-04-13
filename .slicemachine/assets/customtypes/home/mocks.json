@@ -1,0 +1,121 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "cookies"
+  },
+  "title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Beside"
+        }
+      }
+    ]
+  },
+  "sub_title": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Culpa voluptate esse cillum voluptate proident occaecat eiusmod proident amet sunt eu dolore anim deserunt. Ad amet enim do. Eiusmod adipisicing adipisicing velit fugiat ex consequat culpa excepteur id."
+        }
+      }
+    ]
+  },
+  "link_action": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "ExternalLink",
+      "url": "https://slicemachine.dev"
+    }
+  },
+  "mobile": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading2",
+        "content": {
+          "text": "Numeral"
+        }
+      }
+    ]
+  },
+  "mobile_content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Adipisicing esse Lorem aliqua laboris quis id dolore officia ex nulla cillum proident labore veniam. Occaecat id et aliquip amet mollit eu anim pariatur."
+        }
+      }
+    ]
+  },
+  "mobile_banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+      "width": 12288,
+      "height": 16384
+    },
+    "url": "https://images.unsplash.com/photo-1587613865763-4b8b0d19e8ab",
+    "width": 12288,
+    "height": 16384,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "title_web": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Sint sit nostrud aliqua incididunt qui est pariatur minim tempor irure amet dolore ea qui exercitation. Aliquip ea esse reprehenderit exercitation consectetur quis non reprehenderit aute. Minim consectetur sint elit eiusmod nostrud non non esse dolor laborum dolore cupidatat pariatur consectetur ipsum."
+        }
+      }
+    ]
+  },
+  "web_content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Excepteur mollit tempor laborum."
+        }
+      }
+    ]
+  },
+  "web_banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e",
+      "width": 6000,
+      "height": 4000
+    },
+    "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e",
+    "width": 6000,
+    "height": 4000,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  }
+}
