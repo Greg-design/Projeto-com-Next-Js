@@ -81,8 +81,6 @@ export async function getStaticProps({ previewData }: any) {
 
   const page = await client.getSingle("home");
 
-  console.log(page.data);
-
   const { title, sub_title, link_action, mobile, mobile_content, mobile_banner, title_web, web_content, web_banner } =
     page.data;
 

@@ -6,6 +6,10 @@ export const repositoryName = prismic.getRepositoryName("https://sujeitoprojet.c
 const routes = [
   {
     type: "home",
+    path: "/",
+  },
+  {
+    type: "post",
     path: "/:uid",
   },
 ];
